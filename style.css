@@ -1,5 +1,5 @@
 body {
-    background-color: blueviolet;
+    background-color: white;
 }
 .container-1 {
     display:flex 
@@ -7,7 +7,8 @@ body {
 }
 .box-1 {
     position: absolute;
-    background-color: red;
+    background-color: rgb(73, 73, 167);
+    color: rgb(189, 180, 147);
     margin-left: 400px;
     margin-top: 150px;
     width: 500px;
@@ -25,10 +26,11 @@ body {
 .box-1 h3 {
     text-align: center;
 }
-.click {
+.button {
     padding: 10px;
-    background-color: seagreen;
-    border: 1px solid black;
+    margin-left: 200px;;
+    background-color:rgb(196, 57, 57) ;
+    border: black;
     
 }
     
