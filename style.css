@@ -2,7 +2,18 @@ body {
     background-color: blueviolet;
 }
 .container-1 {
-    display:flex
+    display:flex 
+    
+}
+.box-1 {
+    position: absolute;
+    background-color: red;
+    justify-content: center;
+    width: 500px;
+    height: 250px;
+    padding: 30px;
+    border: 1px solid silver;
+   
 }
 
 
